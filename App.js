@@ -1,4 +1,5 @@
 import { StyleSheet, Text, View } from 'react-native';
+//here is a comment
 const styles = StyleSheet.create({
   paragraph: {
     margin: 36,
